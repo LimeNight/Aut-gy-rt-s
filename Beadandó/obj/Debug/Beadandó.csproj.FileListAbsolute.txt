@@ -1,0 +1,8 @@
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\bin\Debug\Beadandó.exe.config
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\bin\Debug\Beadandó.exe
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\bin\Debug\Beadandó.pdb
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\obj\Debug\Beadandó.csproj.AssemblyReference.cache
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\obj\Debug\Beadandó.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\obj\Debug\Beadandó.csproj.CoreCompileInputs.cache
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\obj\Debug\Beadandó.exe
+C:\Users\ivosu\OneDrive\Asztali gép\COde\C_Sharp\Beadandó\Beadandó\obj\Debug\Beadandó.pdb
